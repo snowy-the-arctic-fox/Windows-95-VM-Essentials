@@ -5,3 +5,7 @@ With the files included in the release, you have everything (mostly) to install 
 
 ### Disclaimer
 For those who use the Chromebook version (when it comes out), if you use a school issued chromebook, it should not be used in ways that overide the rules of technolagy your school tech administrator has set for you. Only use if expressed permission is present.
+
+### Need something?
+My contact is as follows! snowydev.github.developer@gmail.com
+Yes it is lengthy but necissary to contact me!
